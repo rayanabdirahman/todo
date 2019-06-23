@@ -1,10 +1,11 @@
 import express from "express";
+import routes from "./routes/index";
 
 const app = express();
-
 const PORT = 8080;
 
-app.get("/", (req, res) => res.send({ hello: "world" }));
+// direct routes to route file
+app.use("/", routes);
 
 app.listen(PORT, () => {
   // tslint:disable-next-line:no-console
