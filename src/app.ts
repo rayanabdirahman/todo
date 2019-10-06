@@ -10,4 +10,7 @@ connectToDbClient();
 // middleware
 app.use(express.json()) // express body parser
 
+// routes
+app.use('/api/user', user);
+
 export default app;
