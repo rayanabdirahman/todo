@@ -1,3 +1,6 @@
+import * as dotenv from 'dotenv';
+dotenv.config(); // initialise .env file
+
 import app from './app';
 import logger from './lib/logger';
 
