@@ -1,0 +1,24 @@
+{
+  "landing": {
+    "header": {
+      "title": "We want to keep you [Link](http://a.com) safe from scams",
+      "icon": "/x-octagon.png"
+    },
+    "body": {
+      "categories": [
+        {
+          "title": "I just love **bold text**",
+          "icon": "file1.png"
+        },
+        {
+          "title": "<b>Something bought online</b>",
+          "icon": "file2.png"
+        },
+        {
+          "title": "<b>Investment account or fund</b>",
+          "icon": "file1.png"
+        }
+      ]
+    }
+  }
+}
