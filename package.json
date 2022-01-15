@@ -9,7 +9,7 @@
     "domhandler": "^3.0.0",
     "html-to-react": "^1.4.3",
     "htmlparser2": "^4.1.0",
-    "marked": "^1.1.1",
+    "marked": "^4.0.10",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
